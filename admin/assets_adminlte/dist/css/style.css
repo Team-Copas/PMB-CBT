@@ -1,0 +1,40 @@
+.login-form {
+  width: 340px;
+  margin: 12rem auto;
+  border-radius: 32px;
+  background-color: #cecece;
+}
+.login-form form {
+  margin-bottom: 15px;
+  padding: 30px;
+}
+.login-form h2,
+p {
+  margin: 0 0 15px;
+  color: #224957;
+}
+.form-control,
+.btn {
+  min-height: 38px;
+}
+.form-control {
+  background-color: #224957;
+  color: white;
+
+}
+.clearfix label {
+  color: #224957;
+}
+.form-control::-webkit-input-placeholder {
+  color: #ffffffa8;
+}
+.btn {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+  background-color: #dfcc20;
+}
+body {
+  background-color: #e5e5e5;
+  width: 100%;
+}

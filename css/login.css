@@ -1,0 +1,43 @@
+/* login Mahasiswa CSS */
+.login-form {
+  width: 340px;
+  height: 100%;
+  margin: 100px auto;
+  border-radius: 32px;
+  padding-top: 20px;
+}
+.login-form form {
+  margin-bottom: 15px;
+  padding: 30px;
+}
+.login-form h2,
+p {
+  margin: 0 0 15px;
+  color: #ffffff;
+}
+.form-control,
+.btn {
+  min-height: 38px;
+}
+.form-control {
+  background-color: #224957;
+  color: #ffffff;
+}
+.clearfix label {
+  color: #ffffff;
+}
+.form-control::-webkit-input-placeholder {
+  color: #ffffff96;
+}
+.btn {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+  background-color: #dfcc20;
+}
+body {
+  background-image: url(../assets/img/Uncop.jpg);
+  background-color: rgba(0, 0, 0, 6);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
